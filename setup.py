@@ -11,4 +11,3 @@ setup(
     url='https://nikolamajcen.com/',
     packages=['mackup'],
 )
-
